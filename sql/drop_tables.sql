@@ -2,7 +2,6 @@ DO $$
 DECLARE
     tab TEXT;
 BEGIN
-    -- Boucle sur toutes les tables du schéma public
     FOR tab IN
         SELECT tablename FROM pg_tables WHERE schemaname = 'public'
     LOOP
