@@ -6,7 +6,28 @@ CREATE TABLE IF NOT EXISTS users (
     nickname VARCHAR(50) NOT NULL,
     available_loans INT DEFAULT 3,
     created_at TIMESTAMP DEFAULT current_timestamp,
-    last_loan TIMESTAMP NULL
+    last_loan TIMESTAMP NULL,
+    role_id UUID NOT NULL REFERENCES roles (id) ON DELETE CASCADE
+);
+
+
+CREATE TABLE IF NOT EXISTS roles (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    label TEXT UNIQUE NOT NULL
+);
+
+
+CREATE TABLE IF NOT EXISTS permissions (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    feature TEXT UNIQUE NOT NULL
+);
+
+
+CREATE TABLE roles_permissions (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    role_id UUID NOT NULL REFERENCES roles (id),
+    permission_id UUID NOT NULL REFERENCES permissions (id),
+    UNIQUE (role_id, permission_id)
 );
 
 
