@@ -2,1284 +2,1284 @@ DELETE FROM keywords;
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Biographie');
+('Biographie');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Révolution');
+('Révolution');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Hagiographie');
+('Hagiographie');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Liturgie');
+('Liturgie');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Spiritualité');
+('Spiritualité');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Morale');
+('Morale');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Bouthillier de Rancé');
+('Bouthillier de Rancé');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Monarchie');
+('Monarchie');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Révolution française');
+('Révolution française');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Sainte Jeanne d''Arc');
+('Sainte Jeanne d''Arc');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Education chrétienne');
+('Education chrétienne');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Philosophie');
+('Philosophie');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Franc-maçonneries');
+('Franc-maçonneries');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('XVIIIe siècle');
+('XVIIIe siècle');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('XXe siècle');
+('XXe siècle');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Démocratie');
+('Démocratie');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Soeur Elisabeth de la Trinité');
+('Soeur Elisabeth de la Trinité');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Spiritualité');
+('Spiritualité');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Théorie du genre');
+('Théorie du genre');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Spiritualité');
+('Spiritualité');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('France');
+('France');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Elisabeth Louisgrand');
+('Elisabeth Louisgrand');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Contre-révolution');
+('Contre-révolution');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('St Jean-Baptiste de la Salle');
+('St Jean-Baptiste de la Salle');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Sacrements');
+('Sacrements');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('JMJ (N.S.J.C.)');
+('JMJ (N.S.J.C.)');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Spiritualité');
+('Spiritualité');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Providence');
+('Providence');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Restauration');
+('Restauration');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Albigeois');
+('Albigeois');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Morale');
+('Morale');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Mariage');
+('Mariage');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Homme');
+('Homme');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Prière');
+('Prière');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Apostolat');
+('Apostolat');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('XIX°');
+('XIX°');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Philosophie');
+('Philosophie');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Evolutionisme');
+('Evolutionisme');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Biographie');
+('Biographie');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Religieux régulier');
+('Religieux régulier');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Perversion morale');
+('Perversion morale');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Révolution');
+('Révolution');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('France');
+('France');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Naturalisme');
+('Naturalisme');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Economie');
+('Economie');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Martyrs de l''Ouganda');
+('Martyrs de l''Ouganda');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Bulle');
+('Bulle');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Saint François de Sales');
+('Saint François de Sales');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Vieillesse');
+('Vieillesse');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Bonheur');
+('Bonheur');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Education de la vie et des sentiments');
+('Education de la vie et des sentiments');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Spiritualité');
+('Spiritualité');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Décadence de l''homme contemporain');
+('Décadence de l''homme contemporain');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Passion');
+('Passion');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Napoléon');
+('Napoléon');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Expériences');
+('Expériences');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Sainte Jeanne d''arc');
+('Sainte Jeanne d''arc');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Mixité scolaire');
+('Mixité scolaire');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Pédiatrie');
+('Pédiatrie');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Dévolution, succession de la couronne');
+('Dévolution, succession de la couronne');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Newman');
+('Newman');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Socialocommunisme');
+('Socialocommunisme');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Ste Louise de Marillac, veuve Le Gras');
+('Ste Louise de Marillac, veuve Le Gras');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Messe');
+('Messe');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Mort');
+('Mort');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Progrés');
+('Progrés');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Sciences humaines');
+('Sciences humaines');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Bruno Lantéri');
+('Bruno Lantéri');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('expérimentations');
+('expérimentations');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Moyen-Âge (IXXVI°)');
+('Moyen-Âge (IXXVI°)');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('FEMEN');
+('FEMEN');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Faber');
+('Faber');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Franc-maçonnerie');
+('Franc-maçonnerie');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Bx Clet');
+('Bx Clet');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Décadence');
+('Décadence');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Civilisation moderne');
+('Civilisation moderne');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Foi');
+('Foi');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('France');
+('France');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Raël Mouvement raëlien');
+('Raël Mouvement raëlien');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Dalgairns');
+('Dalgairns');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Curé d''Ars');
+('Curé d''Ars');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Taine');
+('Taine');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Galilée');
+('Galilée');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Judith Butler');
+('Judith Butler');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Vaucouleurs');
+('Vaucouleurs');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Garcia Moreno');
+('Garcia Moreno');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Filles de la Charité d''Arras  Révolution de');
+('Filles de la Charité d''Arras  Révolution de');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Littré  Conversion');
+('Littré  Conversion');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Méthodologie des sciences');
+('Méthodologie des sciences');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Informations');
+('Informations');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Constructivisme');
+('Constructivisme');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Felix, R.P.');
+('Felix, R.P.');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Bx PierreDumoulin Borie');
+('Bx PierreDumoulin Borie');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Marcellin Bertheloot');
+('Marcellin Bertheloot');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Spécialisation');
+('Spécialisation');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Conditionnement');
+('Conditionnement');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Théorie du''gender');
+('Théorie du''gender');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('John Money');
+('John Money');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Baïus');
+('Baïus');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Bse Jeanne de Lestonnac');
+('Bse Jeanne de Lestonnac');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Filles de l''Ordre de NotreDame');
+('Filles de l''Ordre de NotreDame');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Vacherot');
+('Vacherot');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Synthèse');
+('Synthèse');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Intelligence');
+('Intelligence');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('David Reimer');
+('David Reimer');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Jansénius');
+('Jansénius');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Bx Jaccard');
+('Bx Jaccard');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Sully Prudhomme');
+('Sully Prudhomme');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Descartes');
+('Descartes');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Interprétation');
+('Interprétation');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('New Age');
+('New Age');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Quesnel');
+('Quesnel');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Volta');
+('Volta');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Âme');
+('Âme');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Média');
+('Média');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Marxisme');
+('Marxisme');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Ricci');
+('Ricci');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Ampère');
+('Ampère');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Intelligence');
+('Intelligence');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Modernisme');
+('Modernisme');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Constitution de Prusse');
+('Constitution de Prusse');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Augustin Cauchy');
+('Augustin Cauchy');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Inspiration');
+('Inspiration');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Mutationisme');
+('Mutationisme');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Anticléricalisme');
+('Anticléricalisme');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Guillaume IV de Prusse');
+('Guillaume IV de Prusse');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Jean-Baptiste Biot');
+('Jean-Baptiste Biot');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Intuition');
+('Intuition');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Phénomènes');
+('Phénomènes');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Mouvement Libertaire');
+('Mouvement Libertaire');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Arche de Noé');
+('Arche de Noé');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Jean-Baptiste Dumas');
+('Jean-Baptiste Dumas');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('6° sens');
+('6° sens');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Progressisme');
+('Progressisme');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Féminisme');
+('Féminisme');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Patrie');
+('Patrie');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Pasteur');
+('Pasteur');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Tempérament');
+('Tempérament');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Réalités trancendantes');
+('Réalités trancendantes');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Homosexuels');
+('Homosexuels');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Ecole fataliste');
+('Ecole fataliste');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Le Verrier');
+('Le Verrier');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Morale');
+('Morale');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Science, culte de la');
+('Science, culte de la');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Facebook');
+('Facebook');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Ecole humanitaire');
+('Ecole humanitaire');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Ernest Renand');
+('Ernest Renand');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Esthétique');
+('Esthétique');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Art');
+('Art');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Science');
+('Science');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Romantisme');
+('Romantisme');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Féminisme radical');
+('Féminisme radical');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Ecole naturaliste  ');
+('Ecole naturaliste  ');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Sciences');
+('Sciences');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Unité des activités mentales');
+('Unité des activités mentales');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Simone de Beauvoir');
+('Simone de Beauvoir');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Ecole chrétienne');
+('Ecole chrétienne');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Dr Wirchaw');
+('Dr Wirchaw');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Psychanalyse');
+('Psychanalyse');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Théorie Queer');
+('Théorie Queer');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Temple de Salomon');
+('Temple de Salomon');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Proanthropos (Descendance singe homme)');
+('Proanthropos (Descendance singe homme)');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Intelligence');
+('Intelligence');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Alaitement maternel');
+('Alaitement maternel');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Brunswick');
+('Brunswick');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Anticréationisme');
+('Anticréationisme');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Morale');
+('Morale');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('ONU');
+('ONU');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Joseph de Cupertino, Saint');
+('Joseph de Cupertino, Saint');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Athéisme');
+('Athéisme');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Temps');
+('Temps');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Totalitarisme');
+('Totalitarisme');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Philosophe naturaliste');
+('Philosophe naturaliste');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Progrés');
+('Progrés');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Qualités primaires');
+('Qualités primaires');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Révolution de');
+('Révolution de');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Confession de la Foi');
+('Confession de la Foi');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Qualités secondaires');
+('Qualités secondaires');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Education');
+('Education');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Montalembert');
+('Montalembert');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Temps physiologiques');
+('Temps physiologiques');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Scolarité');
+('Scolarité');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Donoso Cortès');
+('Donoso Cortès');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Rythmes');
+('Rythmes');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('UNESCO');
+('UNESCO');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Syllabus');
+('Syllabus');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Fonctions adaptives');
+('Fonctions adaptives');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('MLF');
+('MLF');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Discernement');
+('Discernement');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Maladies');
+('Maladies');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Cours par correspondance');
+('Cours par correspondance');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Scolarité');
+('Scolarité');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Version des septantes');
+('Version des septantes');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Santé artificielle et santé naturelle');
+('Santé artificielle et santé naturelle');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Martyrs');
+('Martyrs');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Principe de Le Chatelier');
+('Principe de Le Chatelier');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Empire romain');
+('Empire romain');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Occident chrétien');
+('Occident chrétien');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Constantin');
+('Constantin');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Qualités primaires, qualités secondaires');
+('Qualités primaires, qualités secondaires');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Vatican');
+('Vatican');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Vie intérieure');
+('Vie intérieure');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Domaine temporel du pape');
+('Domaine temporel du pape');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Charlemagne');
+('Charlemagne');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Saint empire');
+('Saint empire');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Mortara, affaire');
+('Mortara, affaire');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Traité de Westphalie');
+('Traité de Westphalie');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Saint Alliance');
+('Saint Alliance');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Maistre, Joseph de');
+('Maistre, Joseph de');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Sacre de Napoléon par Pie VII');
+('Sacre de Napoléon par Pie VII');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Croisades');
+('Croisades');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Philippe le Bel et Boniface VIII');
+('Philippe le Bel et Boniface VIII');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Papes à Avignon');
+('Papes à Avignon');
 
 
 INSERT INTO
-    keywords (label)
+keywords (label)
 VALUES
-    ('Ultramontain');
+('Ultramontain');

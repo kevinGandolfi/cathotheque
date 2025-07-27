@@ -2,306 +2,306 @@ DELETE FROM publishers;
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Fédération Nationale Catholique');
+('Fédération Nationale Catholique');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Maison-Mère des Petites Soeurs des Pauvres');
+('Maison-Mère des Petites Soeurs des Pauvres');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('ESJA');
+('ESJA');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Visitation d’Annecy');
+('Visitation d’Annecy');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Blériot, Ch.');
+('Blériot, Ch.');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('de Gigord, J.');
+('de Gigord, J.');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Casterman Vve. H.');
+('Casterman Vve. H.');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Club Culture Française');
+('Club Culture Française');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Duc-Albatros');
+('Duc-Albatros');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Sté. St. Augustin');
+('Sté. St. Augustin');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Taffin-Lefort');
+('Taffin-Lefort');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Michel, Saint');
+('Michel, Saint');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Cerf');
+('Cerf');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Plon');
+('Plon');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('DDB');
+('DDB');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('ASV');
+('ASV');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Oeuvre Eucharistique');
+('Oeuvre Eucharistique');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Perrin');
+('Perrin');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Editions de Paris');
+('Editions de Paris');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Procure des Oblats de la V. Marie');
+('Procure des Oblats de la V. Marie');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Médicis');
+('Médicis');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Universitaires, Editions');
+('Universitaires, Editions');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Carmel de Dijon');
+('Carmel de Dijon');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('D.M.M.');
+('D.M.M.');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Civitas');
+('Civitas');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Téqui');
+('Téqui');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Bonne Presse');
+('Bonne Presse');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Perisse Frères');
+('Perisse Frères');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Fayard');
+('Fayard');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Bloud et Gay');
+('Bloud et Gay');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('ASJ');
+('ASJ');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Chiré');
+('Chiré');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Centro Librario');
+('Centro Librario');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Desbonnet');
+('Desbonnet');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Pro Manuscripto');
+('Pro Manuscripto');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Secrétariat Jeunesse Catholique Belge');
+('Secrétariat Jeunesse Catholique Belge');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Saint Esprit, Procure des Pères du');
+('Saint Esprit, Procure des Pères du');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Lethielleux');
+('Lethielleux');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Loireau');
+('Loireau');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Maredsous');
+('Maredsous');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Calmann-Levy');
+('Calmann-Levy');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Privat');
+('Privat');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('ASAMC');
+('ASAMC');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Barbou & Cie');
+('Barbou & Cie');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Hachette');
+('Hachette');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Office Central de Ste. Thérèse');
+('Office Central de Ste. Thérèse');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Beauchesne, Gabriel');
+('Beauchesne, Gabriel');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Vitte, Librairie Catholique Emmanuel');
+('Vitte, Librairie Catholique Emmanuel');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Saint Charles, Oeuvre de');
+('Saint Charles, Oeuvre de');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Bayard');
+('Bayard');
 
 
 INSERT INTO
-    publishers (publisher_name)
+publishers (publisher_name)
 VALUES
-    ('Etudes anti-modernistes');
+('Etudes anti-modernistes');

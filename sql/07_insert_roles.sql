@@ -2,6 +2,6 @@ DELETE FROM roles;
 
 
 INSERT INTO
-    roles (label)
+roles (label)
 VALUES
-    ('admin', 'user')
+('admin', 'user')

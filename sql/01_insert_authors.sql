@@ -2,318 +2,318 @@ DELETE FROM authors;
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('(anonyme)');
+('(anonyme)');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Chanoine D***');
+('Chanoine D***');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Concile de Trente');
+('Concile de Trente');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Visitation d''Annecy');
+('Visitation d''Annecy');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Barthélémy, Charles');
+('Barthélémy, Charles');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Baunard, Mgr.');
+('Baunard, Mgr.');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Blanc de Saint Bonnet, A.');
+('Blanc de Saint Bonnet, A.');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Bonald, Louis de');
+('Bonald, Louis de');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Canet, V.');
+('Canet, V.');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Carnot, Dr Jean');
+('Carnot, Dr Jean');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Carré (OP), Père');
+('Carré (OP), Père');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Carrel, Dr. Alexis');
+('Carrel, Dr. Alexis');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Charles (S.J.), Pierre');
+('Charles (S.J.), Pierre');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Chautard (ocr), Dom J.B.');
+('Chautard (ocr), Dom J.B.');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Chauvin S.S.S., Jos.');
+('Chauvin S.S.S., Jos.');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Copin-Albancelli, Paul');
+('Copin-Albancelli, Paul');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Cristiani, Mgr. L.');
+('Cristiani, Mgr. L.');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('De Corte, Marcel');
+('De Corte, Marcel');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Debout, Mgr. H.');
+('Debout, Mgr. H.');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Elisabeth de la Trinité, Soeur');
+('Elisabeth de la Trinité, Soeur');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Emmanuel, Père');
+('Emmanuel, Père');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Escada, Alain');
+('Escada, Alain');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Faber, R.P. Frederic William');
+('Faber, R.P. Frederic William');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('François de Sales, Saint');
+('François de Sales, Saint');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Gache, Paul');
+('Gache, Paul');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Garrigou-Lagrange, R.P. Réginald');
+('Garrigou-Lagrange, R.P. Réginald');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Gaxotte, Pierre');
+('Gaxotte, Pierre');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Gay, Mme. Francisque');
+('Gay, Mme. Francisque');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Golven');
+('Golven');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Guéranger, Dom Prosper');
+('Guéranger, Dom Prosper');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Guérard des Lauriers (O.P.), R.P. M.L.');
+('Guérard des Lauriers (O.P.), R.P. M.L.');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Haupt, Jean');
+('Haupt, Jean');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Lebbe, R.P.');
+('Lebbe, R.P.');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Lemann, abbé Joseph');
+('Lemann, abbé Joseph');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Lenotre, Georges');
+('Lenotre, Georges');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Lhomond');
+('Lhomond');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Libermann, Vénérable Père F.-M. P.');
+('Libermann, Vénérable Père F.-M. P.');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Maitre, abbé Joseph');
+('Maitre, abbé Joseph');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Marmion, Dom Columba');
+('Marmion, Dom Columba');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Martigues, Claire');
+('Martigues, Claire');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Mercier, Louis');
+('Mercier, Louis');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Pègue (O.P.), R.P. Thomas');
+('Pègue (O.P.), R.P. Thomas');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Pie IX, Grégoire XVI, Pie VII');
+('Pie IX, Grégoire XVI, Pie VII');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Pie, Cardinal');
+('Pie, Cardinal');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Poullin, Marcel');
+('Poullin, Marcel');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Rodriguez, R.P. Alphonse');
+('Rodriguez, R.P. Alphonse');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Sanborn, Mgr Donald J.');
+('Sanborn, Mgr Donald J.');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Ségur, Comtesse de');
+('Ségur, Comtesse de');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Thérèse de l''Enfant Jésus, Sainte');
+('Thérèse de l''Enfant Jésus, Sainte');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Tour-du-Pin la Charce, René de la');
+('Tour-du-Pin la Charce, René de la');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Trochu, Mgr. Francis');
+('Trochu, Mgr. Francis');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Villéon, Ombline P. de la');
+('Villéon, Ombline P. de la');
 
 
 INSERT INTO
-    authors (full_name)
+authors (full_name)
 VALUES
-    ('Cousin, Louis');
+('Cousin, Louis');
