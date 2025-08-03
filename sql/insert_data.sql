@@ -1,6 +1,7 @@
 BEGIN;
 
 
+-- delete data
 DELETE FROM authors;
 DELETE FROM books;
 DELETE FROM books_authors;
@@ -11,6 +12,8 @@ DELETE FROM roles;
 DELETE FROM permissions;
 DELETE FROM roles_permissions;
 
+
+-- insert authors
 INSERT INTO authors (full_name) VALUES
 ('(anonyme)'),
 ('Barthélémy, Charles'),
@@ -67,8 +70,7 @@ INSERT INTO authors (full_name) VALUES
 ('Visitation d''Annecy');
 
 
-
-
+-- insert books
 INSERT INTO books (title, first_edition) VALUES
 ('Au service de l''amour', 1939),
 ('Comment j''élève mon enfant', 1927),
@@ -144,6 +146,7 @@ INSERT INTO books (title, first_edition) VALUES
 ('Vieilles maisons, vieux papiers', 1905);
 
 
+-- insert books_authors
 WITH
 authors_cte AS (
     SELECT
@@ -238,6 +241,7 @@ INNER JOIN books_cte AS b ON assoc.book_title = b.title
 INNER JOIN authors_cte AS a ON assoc.author_name = a.full_name;
 
 
+-- insert keywords
 INSERT INTO keywords (label) VALUES
 ('6° sens'),
 ('Albigeois'),
@@ -404,6 +408,7 @@ INSERT INTO keywords (label) VALUES
 ('XIX°');
 
 
+-- insert publishers
 INSERT INTO publishers (publisher_name)
 VALUES
 ('ASAMC'),
@@ -458,6 +463,7 @@ VALUES
 ('Vitte, Librairie Catholique Emmanuel');
 
 
+-- insert editions
 WITH raw_data (
     title, publisher_name, page_count, volume_count, publication_year
 ) AS (
@@ -543,6 +549,8 @@ FROM raw_data AS r
 INNER JOIN book_ids AS b ON r.title = b.title
 INNER JOIN publisher_ids AS p ON r.publisher_name = p.publisher_name;
 
+
+-- insert roles
 INSERT INTO
 roles (label)
 VALUES
@@ -550,6 +558,7 @@ VALUES
 ('user');
 
 
+-- insert permissions
 INSERT INTO
 permissions (feature)
 VALUES
@@ -559,6 +568,7 @@ VALUES
 ('delete_book');
 
 
+-- insert roles_permissions
 INSERT INTO roles_permissions (role_id, permission_id)
 SELECT
     r.id,
