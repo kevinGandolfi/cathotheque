@@ -1,3 +1,0 @@
-ALTER TABLE editions
-ALTER COLUMN publisher_id
-SET NOT NULL;

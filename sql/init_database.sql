@@ -1,3 +1,6 @@
+BEGIN;
+
+
 CREATE TABLE IF NOT EXISTS users (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     email VARCHAR(50) UNIQUE NOT NULL,
@@ -149,3 +152,6 @@ CREATE TABLE IF NOT EXISTS books_keywords (
     book_id UUID REFERENCES books (id),
     keyword_id UUID REFERENCES keywords (id)
 );
+
+
+COMMIT;
